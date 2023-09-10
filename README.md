@@ -47,7 +47,7 @@ https://www.youtube.com/watch?v=Y8X-OduZOfQ
 ```
 > 1 Week: €10
 > 1 Month: €20
-> 3 Month: €80 
+> Lifetime: €80 
 ```
 **TAGS**
 -
